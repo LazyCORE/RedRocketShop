@@ -5,3 +5,6 @@ mysqlclient==2.0.1
 sqlparse==0.4.2
 django-mysql
 Pillow
+djangorestframework
+djoser
+djangorestframework_simplejwt
