@@ -1,0 +1,24 @@
+.App {
+
+  background-color: #282c34;
+  color: white;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+
+
+
+.App-header {
+    text-align: center;
+
+
+
+}
+
+.layout{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
